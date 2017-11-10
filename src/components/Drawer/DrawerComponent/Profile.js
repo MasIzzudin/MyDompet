@@ -2,9 +2,13 @@ import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { View, Text, ImageBackground, TouchableOpacity, Image } from 'react-native';
 import gambar from '../../image/design.jpg';
-import { ImageProfile } from '../../../Actions';
+import { ImageProfile, ValueImage } from '../../../Actions';
 
 class Profile extends Component {
+    componentWillMount() {
+        this.props.ValueImage();
+    }
+
     showImageLibrary() {
         this.props.ImageProfile();
     }
@@ -27,7 +31,7 @@ class Profile extends Component {
                         <View style={wrapperImageSource} > 
                             {
                                 this.props.avatarSource === null ? <Text>Choose Your Avatar</Text> :
-                                <Image source={this.props.avatarSource} style={ImageStyle} />
+                                <Image source={{ uri: this.props.avatarSource }} style={ImageStyle} />
                             }
                         </View>
                     </TouchableOpacity>
@@ -69,4 +73,4 @@ const mapStateToProps = state => {
     return { avatarSource };
 };
 
-export default connect(mapStateToProps, { ImageProfile })(Profile);
+export default connect(mapStateToProps, { ImageProfile, ValueImage })(Profile);

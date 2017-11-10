@@ -6,5 +6,13 @@
     {
         "merged": "/var/www/html/Projek/myDompet/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/var/www/html/myDompet/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/myDompet/react-native-image-picker/unspecified/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/var/www/html/myDompet/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/res/xml/preferences.xml"
     }
 ]

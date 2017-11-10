@@ -2,5 +2,9 @@
     {
         "merged": "/var/www/html/Projek/myDompet/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
         "source": "/var/www/html/Projek/myDompet/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/var/www/html/myDompet/android/app/build/intermediates/res/merged/release/mipmap-mdpi/ic_launcher.png",
+        "source": "/var/www/html/myDompet/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]

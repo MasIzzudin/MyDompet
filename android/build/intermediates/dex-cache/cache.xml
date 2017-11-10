@@ -3,48 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a41fcc56f913a966386649e6b17f0b5fed44488b.jar" />
+        sha1="56d3e81fee5f47a7a12ab65f4620f580c9c71d1e">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.48.3_a8e3ef3b8bb6e5c8266bc61bfa0795adfa01e48f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/myDompet/react-native-fetch-blob/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_71c8c18f76e45de7bd39ecbc8c3ed3a8353d7c7d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fba5c46870f699390504141f1700bb817f9108de.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/rin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3a842e4dc009f717c239dc80add416e9d2059fad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d991f24ccffb0958eb0bb36a37d9708e5bf4231b.jar" />
+        sha1="48270e9e99c773fc3ce512d81dd2c70c7402b107">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/myDompet-react-native-fetch-blob-unspecified_e86b574d1772dbec01dd8162ea481a04672a5578.jar" />
     </item>
     <item
         is-multidex="false"
@@ -57,12 +30,66 @@
     </item>
     <item
         is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0800e2dd07f85771c072f19ccbe2c450cf72730a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
         <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_1083e65ce35f0e3efeb90645fed22085f1b82f3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_39e2dd62af51fa8b21a4a2a6d375a4346f0ba23d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2ac3b60e67239c13e6186103457362c2d85dc6cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1e9d9bc32236bb7691e678b79a537576dc42c101.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_20ad13ad863d97b80dc809db0d013e3ed572e61f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_d991f24ccffb0958eb0bb36a37d9708e5bf4231b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,12 +111,66 @@
     </item>
     <item
         is-multidex="false"
-        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_39e2dd62af51fa8b21a4a2a6d375a4346f0ba23d.jar" />
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_8b5b8a0f54c9964c64922447595fe4739c24bf10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.48.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_f92cf9a63ebb7b81857ebaa971ab172780a19238.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ac4fd34d4904838dc609ad66d0f12e54c058fc51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a4faf864ec8e7d8420209bf8da2572a7930f02ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b85902c65a6f0d79725058f64e9ce3c27f38a2cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_71c8c18f76e45de7bd39ecbc8c3ed3a8353d7c7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fba5c46870f699390504141f1700bb817f9108de.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,48 +183,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2ac3b60e67239c13e6186103457362c2d85dc6cb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_8b5b8a0f54c9964c64922447595fe4739c24bf10.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/myDompet/react-native-image-picker/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="0c360d23e71f1bbd1604bbbf4be2cc621d0ddddf">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/myDompet-react-native-image-picker-unspecified_bfb608bf69029396cdfe629d952e898e6b806cf8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_49863cdacc941b7a04e7906b13d55d5209473d1f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_ac4fd34d4904838dc609ad66d0f12e54c058fc51.jar" />
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_6af14e32b2c803d67e43f9c75b5d042d5d5d0655.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,12 +219,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
-        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
-        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_25896f434a446dfb86c1fbfae2777028d5153166.jar" />
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_2e8d8a67b9bb561a7aa3f44fe1e6807dc55b1e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4719a8a29aad3c64992f4ffd3a9621dca1921043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_ca47058d45aca037119922b3221d17106cfa135a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -189,6 +252,78 @@
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
         <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_85cf2ae7e36a05ffa6211890233ca50a421af23a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_25f9a63735ffcda12f40e69a5f50a9a358aa06c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_a41fcc56f913a966386649e6b17f0b5fed44488b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rin/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3a842e4dc009f717c239dc80add416e9d2059fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/myDompet/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="88fb5e7c144b95aacb949c5c4aacf51489f0d71a">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/myDompet-react-native-image-picker-unspecified_071f0e1c9d9ca70bac3ed8c86b41a26ea9a38bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/myDompet/react-native-image-picker/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0c360d23e71f1bbd1604bbbf4be2cc621d0ddddf">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/myDompet-react-native-image-picker-unspecified_bfb608bf69029396cdfe629d952e898e6b806cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/Projek/myDompet/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_49863cdacc941b7a04e7906b13d55d5209473d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/var/www/html/myDompet/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/var/www/html/myDompet/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_9447ccdf819f72bead3d8f02f60237425070d8e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/var/www/html/Projek/myDompet/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_25896f434a446dfb86c1fbfae2777028d5153166.jar" />
     </item>
     <item
         is-multidex="false"

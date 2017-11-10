@@ -23,10 +23,7 @@ export class App extends Component {
           firebase.auth().onAuthStateChanged((user) => { //AutoLogin
               if (user) {
                 Actions.drawer();
-              } else {
-                Actions.mainForm();
               }
-              console.log(user);
           });
     }
 
