@@ -57,14 +57,14 @@ class LoginForm extends Component {
                         </CardSection>
                         <View 
                         style={{ 
-                            borderBottomColor: 'grey', 
+                            borderBottomColor: 'black', 
                             borderBottomWidth: 1,
                             width: 320, 
                             alignSelf: 'center' }} 
                         />
                         <CardSection>
                             <Input 
-                                placeholder="password"
+                                placeholder="passwordssssss"
                                 secureTextEntry
                                 onChangeText={this.onPasswordChange.bind(this)}
                                 value={this.props.password}
